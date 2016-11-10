@@ -20,7 +20,6 @@ In order to install the node_modules described under "dependencies" in the packa
 ## Requirements
 
 In order to run this application on your computer, you will need to have MongoDB installed on your computer, or you will need access to an online MongoDB instance like [mongolab.com](http://www.mongolab.com). 
-We will work with mongodb in 2 weeks.
 
 ## issues
 
