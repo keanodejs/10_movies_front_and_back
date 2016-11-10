@@ -5,7 +5,7 @@
  // http://movieapp-sitepointdemos.rhcloud.com/api/movies/:id
 
 angular.module('movieApp.services',[]).factory('Movie',function($resource){
-    return $resource('http://keanodemovies.azurewebsites.net/api/movies/:id',{id:'@_id'},{
+    return $resource('https://moviesfrontandback.herokuapp.com/api/movies/:id',{id:'@_id'},{
         update: {
             method: 'PUT'
         }
