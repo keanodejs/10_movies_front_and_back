@@ -6,6 +6,10 @@ This project contains a Frontend done with Angular in the folder 'public'.
 
 This is not part of the curriculum of this elective, but is here as an example of a full MEAN stack application, like the one you will end up doing with the Angular guys in your group.
 
+The app is deployed and can be viewed at:
+* Front: https://moviesfrontandback.herokuapp.com/#/movies
+* Api: https://moviesfrontandback.herokuapp.com/api/movies
+
 
 ## Installation
 
