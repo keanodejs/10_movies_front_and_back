@@ -9,7 +9,7 @@ This is not part of the curriculum of this elective, but is here as an example o
 
 ## Installation
 
-<pre> git clone https://github.com/keanodejs/05_project_example.git </pre>   
+<pre> git clone https://github.com/keanodejs/10_movies_front_and_back.git </pre>   
 
 Then run:    
 
