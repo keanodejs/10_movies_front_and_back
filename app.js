@@ -13,8 +13,8 @@ app.use(bodyParser.json());
 // serve static files
 app.use(express.static('public')); // all files in public folder can be served statically
 
-var cors = require('cors');
-app.use(cors());
+//var cors = require('cors');
+//app.use(cors());
 
 // middleware to use for all requests
 app.use(function(req, res, next) {
