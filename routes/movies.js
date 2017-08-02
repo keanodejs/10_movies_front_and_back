@@ -9,7 +9,7 @@ var MongoClient = mongodb.MongoClient;
 // var url = 'mongodb://keanode:1234abc@ds042888.mongolab.com:42888/moviesapi'
 var dbuser = process.env.dbuser;
 var dbpass = process.env.dbpass;
-var url = 'mongodb://' + dbuser + ':' + dbpass + '@clbo-shard-00-00-eiuxh.mongodb.net:27017,clbo-shard-00-01-eiuxh.mongodb.net:27017,clbo-shard-00-02-eiuxh.mongodb.net:27017/<DATABASE>?ssl=true&replicaSet=clbo-shard-0&authSource=admin'
+var url = 'mongodb://' + dbuser + ':' + dbpass + '@clbo-shard-00-00-eiuxh.mongodb.net:27017,clbo-shard-00-01-eiuxh.mongodb.net:27017,clbo-shard-00-02-eiuxh.mongodb.net:27017/moviestest?ssl=true&replicaSet=clbo-shard-0&authSource=admin'
 //var url = 'mongodb://clbo:abc1234@clbo-shard-00-00-eiuxh.mongodb.net:27017,clbo-shard-00-01-eiuxh.mongodb.net:27017,clbo-shard-00-02-eiuxh.mongodb.net:27017/<DATABASE>?ssl=true&replicaSet=clbo-shard-0&authSource=admin'
 
 
